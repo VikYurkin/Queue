@@ -1,7 +1,7 @@
 # Queue
 Test task for Geek Prtns
 
-Createв RestAPI app for generating series.
+Createв RestAPI app for generating series on RestAPI_to_series branch.
 
 API:
 
